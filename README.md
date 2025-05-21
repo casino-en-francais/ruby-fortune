@@ -7,7 +7,7 @@ Ruby Fortune est un casino en ligne populaire au Canada, reconnu pour sa platefo
 
 ## Accès au Site Officiel
 
-🎯 [Jouer sur Ruby Fortune en français](https:/go.visitbrand.link/ruby/fr/) *(interface disponible en FR)*
+🎯 [Jouer sur Ruby Fortune en français](https://go.visitbrand.link/ruby/fr/) *(interface disponible en FR)*
 
 ## Pourquoi Choisir Ruby Fortune ?
 
