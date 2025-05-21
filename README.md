@@ -1,5 +1,4 @@
-# ruby-fortune
-# Ruby Fortune Français
+# Ruby Fortune en Français
 
 Bienvenue sur ce guide communautaire non officiel pour Ruby Fortune, destiné aux joueurs canadiens francophones.
 
