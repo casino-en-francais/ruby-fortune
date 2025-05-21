@@ -1,2 +1,44 @@
 # ruby-fortune
-Ruby Fortune en français – Pour les joueurs canadiens qui veulent une expérience 100% francophone.
+# Ruby Fortune Français
+
+Bienvenue sur ce guide communautaire non officiel pour Ruby Fortune, destiné aux joueurs canadiens francophones.
+
+Ruby Fortune est un casino en ligne populaire au Canada, reconnu pour sa plateforme sécurisée, ses jeux équitables et son service client fiable. Mais qu'en est-il des options pour les joueurs qui préfèrent jouer en français ? C'est ici que ce guide entre en jeu.
+
+## Accès au Site Officiel
+
+🎯 [Jouer sur Ruby Fortune en français](https:/go.visitbrand.link/ruby/fr/) *(interface disponible en FR)*
+
+## Pourquoi Choisir Ruby Fortune ?
+
+* ✨ Interface disponible en français
+* 🎉 Bonus de bienvenue jusqu'à **750 CAD**
+* 🎮 Jeux de Microgaming + Evolution
+* 🌐 Accepté au Canada
+* 🌧️ Dépôts via Interac / Loonio
+
+## Méthodes de Paiement Disponibles
+
+Ruby Fortune accepte plusieurs méthodes bancaires locales pour les Canadiens :
+
+* Interac (incluant Payper & Loonio)
+* iDebit / InstaDebit
+* Cartes prépayées (comme Vanilla Visa)
+
+## Support en Français ?
+
+L'interface est en français, mais le support peut répondre en anglais selon l'heure de contact. Le chat en direct fonctionne bien, et les délais de réponse sont courts.
+
+## Conseils pour Jouer sur Ruby Fortune
+
+1. **Activez votre bonus dès le premier dépôt.**
+2. **Jouez aux jeux Evolution si vous aimez les croupiers en direct.**
+3. **Utilisez Interac si vous voulez retirer vos gains rapidement.**
+
+## Remarque Légale
+
+Ce guide est indépendant et n'est pas affilié à Ruby Fortune. Le lien fourni est un lien de parrainage permettant de soutenir la création de contenu francophone sur les casinos en ligne.
+
+---
+
+*Dernière mise à jour : 2025*
