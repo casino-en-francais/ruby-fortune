@@ -1,6 +1,6 @@
 # Ruby Fortune en Français
 
-Bienvenue sur ce guide communautaire non officiel pour Ruby Fortune, destiné aux joueurs canadiens francophones.
+Jouez sur Ruby Fortune avec interface 100 % en français, bonus de 800 $ pour les Canadiens, et support francophone 24 h/24.
 
 ## Accès au Site Officiel
 
