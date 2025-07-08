@@ -4,7 +4,7 @@ Jouez sur Ruby Fortune avec interface 100 % en français, bonus de 800 $ pour le
 
 ## Accès au Site Officiel
 
-🎯 [Jouer sur Ruby Fortune en français](https://go.visitbrand.link/ruby/fr/) *(interface disponible en FR)*
+*(interface disponible en FR)*
 
 Ruby Fortune est un casino en ligne populaire au Canada, reconnu pour sa plateforme sécurisée, ses jeux équitables et son service client fiable. Mais qu'en est-il des options pour les joueurs qui préfèrent jouer en français ? C'est ici que ce guide entre en jeu.
 
